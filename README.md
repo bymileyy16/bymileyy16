@@ -1,6 +1,6 @@
 ## Ola! Pessoas ;)! 🌸
 
-b>Aluna em Técnico de infornatica</b> 
+>> Aluna em Técnico de infornatica</b> 
 - <b>Linguagens:</b> C#, Python e Ruby 
 - <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
 - <b>Ambiente:</b> Docker e Kubernetes
