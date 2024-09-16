@@ -1,22 +1,20 @@
-## Ola! Pessoas ;)! 🌸
- >>Aluna em Técnico de informatica no Senai FIEMG
-- <b>Linguagens:</b> C#, Python e Ruby 
-- <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
-- <b>Ambiente:</b> Docker e Kubernetes
-- <b>Versionamento:</b> Git e Azure Repos DevOps
-- <b>Banco de Dados:</b> SQL Server e Oracle
+## 𝓞𝓵𝓪! 𝓟𝓮𝓼𝓼𝓸𝓪𝓼 ;)! 🌸
+Meu nome é Emily Menezes, tenho **16 anos**
 
-<!--
-**bymileyy16/bymileyy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou Aluna no **SENAI** em *Ipatinga/MG*;
+ - Atualmente, Sou aluna em curso de **Informatica para internet**;
+ - inicio do curso *18/03/2024;*
+- Encerramento *02/09/2024*.
 
-Here are some ideas to get you started:
+# 𝓤𝓷𝓲𝓭𝓪𝓭𝓮𝓼 𝓒𝓾𝓻𝓻𝓲𝓬𝓾𝓵𝓪𝓻𝓮𝓼📚
+ Concluídas
+- [x] COMUNICAÇÃO E REDAÇÃO TÉCNICA
+- [x] INFORMÁTICA APLICADA
+- [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
+- [x] LÓGICA DE PROGRAMAÇÃO
+- [x] PROJETO DE INOVAÇÃO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Em Andamento...
+- [ ] PROJETO DE INTERFACE WEB
+- [ ] ...
+
