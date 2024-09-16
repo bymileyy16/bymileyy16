@@ -7,14 +7,14 @@ Meu nome é Emily Menezes, tenho **16 anos**
 - Encerramento *02/09/2024*.
 
 # 𝓤𝓷𝓲𝓭𝓪𝓭𝓮𝓼 𝓒𝓾𝓻𝓻𝓲𝓬𝓾𝓵𝓪𝓻𝓮𝓼📚
- Concluídas
+ ## Concluídas
 - [x] COMUNICAÇÃO E REDAÇÃO TÉCNICA
 - [x] INFORMÁTICA APLICADA
 - [x] FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO
 - [x] LÓGICA DE PROGRAMAÇÃO
 - [x] PROJETO DE INOVAÇÃO
 
- Em Andamento...
+ ## Em Andamento...
 - [ ] PROJETO DE INOVAÇÃO: PROCESSO CRIATIVO – INDÚSTRIA 4.0, LEAN E IDEAÇÃO
 - [ ] PROJETO DE INTERFACE WEB
 - [ ] PROGRAMAÇÃO CLIENT-SIDE
@@ -25,6 +25,4 @@ Meu nome é Emily Menezes, tenho **16 anos**
 - [ ] IMPLANTAÇÃO DE SISTEMA WEB
 - [ ] PROJETO DE INOVAÇÃO: MINDSET EMPREENDEDOR E PROTOTIPAÇÃO
 - [ ] PROJETO DE INOVAÇÃO: TRABALHO DE CONCLUSÃO DO CURSO
-- [ ] ...
-
 :shipit:
