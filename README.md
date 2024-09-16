@@ -1,5 +1,12 @@
 ## Ola! Pessoas ;)! 🌸
 
+b>Aluna em Técnico de infornatica</b> 
+- <b>Linguagens:</b> C#, Python e Ruby 
+- <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
+- <b>Ambiente:</b> Docker e Kubernetes
+- <b>Versionamento:</b> Git e Azure Repos DevOps
+- <b>Banco de Dados:</b> SQL Server e Oracle
+
 <!--
 **bymileyy16/bymileyy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
