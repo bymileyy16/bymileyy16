@@ -1,6 +1,5 @@
 ## Ola! Pessoas ;)! 🌸
-
- Aluna em Técnico de informatica</b> 
+ >>Aluna em Técnico de informatica no Senai FIEMG
 - <b>Linguagens:</b> C#, Python e Ruby 
 - <b>Frameworks:</b> Angular, Bootstrap, Ruby On Rails e Zurb Foundation
 - <b>Ambiente:</b> Docker e Kubernetes
